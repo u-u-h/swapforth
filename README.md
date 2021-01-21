@@ -1,7 +1,8 @@
 ![swapforth](/doc/swapforth1.png)
 
-[![Build Status](https://travis-ci.org/jamesbowman/swapforth.svg?branch=master)](https://travis-ci.org/jamesbowman/swapforth)
-[![Issue Stats](http://issuestats.com/github/jamesbowman/swapforth/badge/issue?style=flat-square)](http://issuestats.com/github/jamesbowman/swapforth)
+This is a fork of [https://github.com/jamesbowman/swapforth], targeting the GOWIN-based Tang Nano board.
+It's far from usable, not the least because yosys/nextpnr/apicula support for
+these devices is still in early stages.
 
 Swapforth is a cross-platform 16- and 32-bit ANS Forth.
 

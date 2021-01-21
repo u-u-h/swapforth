@@ -1,0 +1,4 @@
+ram.v
+*.sw[mnopqrst]
+j1a.synth.v
+*~
