@@ -1,0 +1,15 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW1N-1" pn="GW1N-LV1QN48C6/I5">gw1n1-004</Device>
+    <FileList>
+        <File path="/home/hausutzu/fpga/Gowin/swapforth/j1a/build/ram.v" type="file.verilog" enable="1"/>
+        <File path="j1a.v" type="file.verilog" enable="1"/>
+        <File path="uart.v" type="file.verilog" enable="1"/>
+        <File path="/home/hausutzu/fpga/Gowin/swapforth/j1a/verilog/stack2.v" type="file.verilog" enable="1"/>
+        <File path="j1a.cst" type="file.cst" enable="1"/>
+        <File path="/home/hausutzu/fpga/Gowin/swapforth/j1a/build/nuc.hex" type="file.other" enable="1"/>
+    </FileList>
+</Project>
